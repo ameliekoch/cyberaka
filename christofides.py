@@ -1,5 +1,5 @@
+#! /usr/bin/python3
 import matplotlib.pyplot as plt
-from pprint import pprint
 import tsplib95
 import networkx as nx
 from networkx.drawing.nx_pydot import write_dot
